@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Charlie (@cw523-01)
 - 👀 I’m interested in Software development across the entire stack with experience primarily in java
-- 🌱 I’m currently learning Computer Science at the University of Sussex
+- 🌱 I’m currently studying Computer Science at the University of Sussex
 - 📫 How to reach me: email cw523@sussex.ac.uk
 
 <!---
