@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Charlie (@cw523-01)
 - 👀 I’m interested in Software development across the entire stack with experience primarily in java
-- 🌱 I achieved a first class bachelors at the University of Sussex
+- 🌱 I achieved a first class bachelors degree in Computer Science at the University of Sussex
 - 📫 How to reach me: email c.woodman91@gmail.com
 
 <!---
